@@ -1,3 +1,2 @@
-# BKKP Android App
-# by Dios Kurniawan 
-# May 2014
+# BKKP Mobile Android App
+# October 2020
